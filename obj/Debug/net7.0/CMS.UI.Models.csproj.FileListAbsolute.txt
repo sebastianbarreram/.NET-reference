@@ -1,0 +1,11 @@
+C:\Users\sebastian.barrera\Documents\Proyectos Git\CMS.UI.Models\bin\Debug\net7.0\CMS.UI.Models.deps.json
+C:\Users\sebastian.barrera\Documents\Proyectos Git\CMS.UI.Models\bin\Debug\net7.0\CMS.UI.Models.dll
+C:\Users\sebastian.barrera\Documents\Proyectos Git\CMS.UI.Models\bin\Debug\net7.0\CMS.UI.Models.pdb
+C:\Users\sebastian.barrera\Documents\Proyectos Git\CMS.UI.Models\obj\Debug\net7.0\CMS.UI.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebastian.barrera\Documents\Proyectos Git\CMS.UI.Models\obj\Debug\net7.0\CMS.UI.Models.AssemblyInfoInputs.cache
+C:\Users\sebastian.barrera\Documents\Proyectos Git\CMS.UI.Models\obj\Debug\net7.0\CMS.UI.Models.AssemblyInfo.cs
+C:\Users\sebastian.barrera\Documents\Proyectos Git\CMS.UI.Models\obj\Debug\net7.0\CMS.UI.Models.csproj.CoreCompileInputs.cache
+C:\Users\sebastian.barrera\Documents\Proyectos Git\CMS.UI.Models\obj\Debug\net7.0\CMS.UI.Models.dll
+C:\Users\sebastian.barrera\Documents\Proyectos Git\CMS.UI.Models\obj\Debug\net7.0\refint\CMS.UI.Models.dll
+C:\Users\sebastian.barrera\Documents\Proyectos Git\CMS.UI.Models\obj\Debug\net7.0\CMS.UI.Models.pdb
+C:\Users\sebastian.barrera\Documents\Proyectos Git\CMS.UI.Models\obj\Debug\net7.0\ref\CMS.UI.Models.dll
